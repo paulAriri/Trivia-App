@@ -5,7 +5,7 @@ Resources: React JS, opentdb API: https://opentdb.com/api.php
 
 📝 `NOTE:` Below is the App Walkthrough
 ### App Walk-through
-![pariri's trivia](pariri_trivia.gif)
+![pariri's trivia](pariri-trivia.gif)
 
 - [x] Fetches 10 trivia questions from opentdb API
 - [x] Displays red or green if user chooses the wrong or right answer
